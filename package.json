@@ -1,13 +1,13 @@
 {
   "name": "netredis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "netredis": "./bin/netredis.js"
+    "netredis": "./index.js"
   },
   "scripts": {
-    "start": "node ./bin/netredis.js",
+    "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
